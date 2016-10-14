@@ -1,0 +1,21 @@
+.block {
+	background: #eee;
+	border: 1px solid #ccc;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+
+@media screen and (max-width:768px) {
+.row_1 {
+	margin-bottom: 50px;
+}
+
+.row_2 {
+	margin-top: 50px;
+}
+
+}
